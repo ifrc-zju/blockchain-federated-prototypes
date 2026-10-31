@@ -8,4 +8,4 @@
 
 原始数据：[EMNIST Balanced（NIST）](https://www.nist.gov/itl/products-and-services/emnist-dataset)。仓库提供抽样与划分程序、样本索引和源文件摘要，使用者从原来源获取图像。数据及第三方研究的权利归各自权利人，不受本仓库代码许可证重新授权。
 
-本次改动包括解除对指标2.1目录的依赖、工具路径配置、显式指定数据目录及发布说明；原始与发布文件摘要见source-manifest.json。
+本次改动包括解除对状态约束数字身份验证工程目录的依赖、工具路径配置、显式指定数据目录及发布说明；原始与发布文件摘要见source-manifest.json。
