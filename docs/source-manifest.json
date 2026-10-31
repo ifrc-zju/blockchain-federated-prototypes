@@ -1,0 +1,42 @@
+[
+  {
+    "file": "tools/common.py",
+    "original_sha256": "267f8ae9a5c788bcd609dca49edbb547350a21b563333ece4843d8a31fe6271e",
+    "release_sha256": "0d39e754b51a23db3c3e4c27615146dc56ea16bca599eb3cb966bb00be5d2599"
+  },
+  {
+    "file": "tools/learning.py",
+    "original_sha256": "7c55383e5872b276b0620278664bb4f266e7c751dc68569ccdf4c61ccba3eef7",
+    "release_sha256": "7c55383e5872b276b0620278664bb4f266e7c751dc68569ccdf4c61ccba3eef7"
+  },
+  {
+    "file": "tools/test_learning.py",
+    "original_sha256": "ab1bb81c510bd736e8bd968e32240ca673c5894ea65e5bf41b6cd64f7f348396",
+    "release_sha256": "ab1bb81c510bd736e8bd968e32240ca673c5894ea65e5bf41b6cd64f7f348396"
+  },
+  {
+    "file": "tools/prepare_input.py",
+    "original_sha256": "adf4fd66f78a6e6a06c43777ceddbec5b4029d508a963f65c701cfa38abff27a",
+    "release_sha256": "00b2eef8c60d55e4f7c3233ad7befaf1e9257430dac009a99744c0b00378aed5"
+  },
+  {
+    "file": "tools/PrototypeRegistry.sol",
+    "original_sha256": "169f477d8846f417046f5b73710316bcdafaed6855df1b7aa702eaecab8e2387",
+    "release_sha256": "169f477d8846f417046f5b73710316bcdafaed6855df1b7aa702eaecab8e2387"
+  },
+  {
+    "file": "tools/chain_transport.py",
+    "original_sha256": "472bc554a06a3424998ff53c4d03c5c668d46c7a6a12e9f0f88996190953a2e4",
+    "release_sha256": "007b9a34de5171a5b96b6dfb274845535a9226cc10aabb5912526311f2ed125f"
+  },
+  {
+    "file": "tools/run_experiment.py",
+    "original_sha256": "5c03ad033d80acdbb96a5dbad311e4c5a88dfa50a482b16a9c7c2077b67c3333",
+    "release_sha256": "5c03ad033d80acdbb96a5dbad311e4c5a88dfa50a482b16a9c7c2077b67c3333"
+  },
+  {
+    "file": "tools/independent_audit.py",
+    "original_sha256": "f205b9d42f81a3e60abfe1557c04bc795a4350f6a63c9e16738d3d790e8c64bf",
+    "release_sha256": "5de4673b532907e340b284169801da0ae1cc9cdfb60f3f9578a81c36cd563867"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "utc": "2026-10-31T07:54:01.909114+00:00",
+  "status": "passed",
+  "config_sha256": "c48b6e177f2bb101b5afbef17cb2a2a62b9a600a572757adbcdc8e78b9474bcb",
+  "audited_runs": 1,
+  "audited_rounds": 2,
+  "replayed_training_client_updates": 6,
+  "max_abs_replayed_parameter_error": 0,
+  "verified_signed_transactions_and_archived_receipts": 22,
+  "successful_transactions": 16,
+  "expected_reverted_transactions": 6,
+  "real_archived_node_client_version": "Geth/v1.13.15-stable-c5ba367e/windows-amd64/go1.21.6",
+  "input_source_hashes_and_selected_pixels_checked": true,
+  "prediction_and_statistics_recomputed": true,
+  "blockchain_historical_state_reopened_and_queried": true,
+  "scientific_interpretation": "execution_and_numeric_agreement_do_not_imply_superiority"
+}

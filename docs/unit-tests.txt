@@ -1,0 +1,9 @@
+test_full_network_gradient (__main__.MechanismTests.test_full_network_gradient) ... ok
+test_no_valid_anchor_contributes_zero (__main__.MechanismTests.test_no_valid_anchor_contributes_zero) ... ok
+test_shrink_zero_count_never_fabricates_observation (__main__.MechanismTests.test_shrink_zero_count_never_fabricates_observation) ... ok
+test_wpc_gradient_matches_numerical_difference (__main__.MechanismTests.test_wpc_gradient_matches_numerical_difference) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.248s
+
+OK

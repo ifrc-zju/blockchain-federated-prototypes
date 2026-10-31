@@ -1,0 +1,27 @@
+[
+  {
+    "file": "emnist-balanced-mapping.txt",
+    "bytes": 328,
+    "sha256": "956dc507bf69e9f31f4e3e876d22ec66124aa229b5d0bd65ab8956a8044d3ede"
+  },
+  {
+    "file": "emnist-balanced-test-images-idx3-ubyte",
+    "bytes": 14739216,
+    "sha256": "8540721ad21c287888af91929972310bb53a5ec769bc0418c501cff57306f410"
+  },
+  {
+    "file": "emnist-balanced-test-labels-idx1-ubyte",
+    "bytes": 18808,
+    "sha256": "91807a38b4dab13f65fed7d9cac9fa6e7d27fc8c24f52327b8e6435ebfe18e90"
+  },
+  {
+    "file": "emnist-balanced-train-images-idx3-ubyte",
+    "bytes": 88435216,
+    "sha256": "07547c4e00303361e74fee0b535a68cd3518500909a7b216900aa35e34a0db5c"
+  },
+  {
+    "file": "emnist-balanced-train-labels-idx1-ubyte",
+    "bytes": 112808,
+    "sha256": "a9c2984bf327d013e469d8b66e4bf6e4e98aaeebddc35d1c869b2cd3d1806e12"
+  }
+]
